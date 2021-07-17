@@ -1,5 +1,4 @@
 .caption{
-
     font-family: sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -10,6 +9,7 @@
     text-align: center;
     color: #E53935;
 }
+
 .banner{
     border: 2px solid #f25a70;
     box-shadow: 4px 4px 0px solid rgb(4, 224, 33);
@@ -44,6 +44,5 @@
     margin-right: 10px;
     margin-top: 10px;
     margin-left: 10px;
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px; 
 }
