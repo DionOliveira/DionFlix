@@ -1,0 +1,59 @@
+.btn-warning{
+    width: 180px;
+    height: 54px;
+    left: 38px;
+    top: 1061px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn-warning:hover{
+    transform: scale(1.1);
+}
+
+.btn-info:hover{
+    transform: scale(1.1);
+}
+
+.btn-primary:hover{
+    transform: scale(1.1);
+}
+
+
+.btn-info{
+    margin-top: 30px;
+    width: 180px;
+    height: 54px;
+    left: 38px;
+    top: 1061px; 
+    font-size: 18px;  
+}
+
+.btn-primary{ 
+    width: 180px;
+    height: 54px;
+    left: 38px;
+    top: 1061px; 
+}
+.btn-success{
+    width: 180px;
+    height: 54px;
+    left: 38px;
+    top: 1061px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#Butto_filme{
+    width: 180px;
+    height: 54px;
+    left: 38px;
+    top: 1061px;
+}
+
+#Button_serie{
+    width: 180px;
+    height: 54px;
+    left: 38px;
+    top: 1061px;
+}

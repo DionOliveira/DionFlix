@@ -1,0 +1,49 @@
+.caption{
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #E53935;
+}
+.banner{
+    border: 2px solid #f25a70;
+    box-shadow: 4px 4px 0px solid rgb(4, 224, 33);
+}
+
+.warpper-banner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.warpper-banner:hover{
+    transform: scale(1.1);
+}
+
+.warpper-banner .banner{
+    margin-bottom: 10px;
+}
+
+.warpper-banner .caption{
+    width:  312px;
+    text-align: center;
+}
+
+.list-banner{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.list-banner .warpper-banner{
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    
+}
