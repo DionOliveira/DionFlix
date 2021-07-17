@@ -10,8 +10,7 @@ btn.addEventListener("click", function(e){
     const title =document.createElement("figcaption");
 
     const list = document.querySelector(".list-banner"); 
-    
-    
+       
     img.src = vimg.value;
     img.alt ="Banner";
     img.classList.add("banner"); 
@@ -27,11 +26,3 @@ btn.addEventListener("click", function(e){
     
 }  
 )
-/* como deve ficar no html
-<section class="list-banner">
-<figure class="warpper-banner">
-  <img class="banner"src="img/baner.png"/>
-  <figcaption class="caption">Nome do Filme</figcaption>
-</figure>
-</section>
-*/
